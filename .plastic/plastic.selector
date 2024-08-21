@@ -1,4 +1,0 @@
-repository "RPG@daiaolin@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
