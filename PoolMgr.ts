@@ -54,6 +54,10 @@ export class PoolMgr {
         this.map.get(key).push(node);
         node.active = false;
     }
+    
+    public clear() {
+        this.map.clear();
+    }
 }
 
 
